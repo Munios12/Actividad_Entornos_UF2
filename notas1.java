@@ -37,7 +37,7 @@ public class notas1 {
 	
 	public void IngresaNotas() {
 		
-		//Imprimimos las notas del estudiante
+		//Imprimimos las notas
 		System.out.println("ingrese las notas del estudiante");
 		
 		System.out.print("ingrese nota 1: ");
